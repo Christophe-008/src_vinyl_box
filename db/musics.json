@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "tattoo",
+    "artist": "loreen",
+    "cover": "Loreen.jpg",
+    "music": "loreen_tattoo.mp3"
+  },
+  {
+    "id": 5,
+    "title": "As It Was",
+    "artist": "Harry Styles",
+    "cover": "maxresdefault.webp",
+    "music": "onlymp3.to - Harry Styles As It Was Official Video -H5v3kku4y6Q-192k-1701953264.mp3"
+  },
+  {
+    "id": 2,
+    "title": "what",
+    "artist": "rnbstylerz",
+    "cover": "PwtI82k9_400x400.jpg",
+    "music": "Rnbstylerz_AREES-What(Edit).mp3"
+  },
+  {
+    "id": 3,
+    "title": "no good",
+    "artist": "max b grant",
+    "cover": "artworks-000099941116-de7gqs-t500x500.jpg",
+    "music": "DJ_Max_B_Grant_VS_The_Prodigy-No_Good_2005.mp3"
+  },
+  {
+    "id": 4,
+    "title": "other side",
+    "artist": "slinz",
+    "cover": "capsule_616x353.jpg",
+    "music": "Slinz-Other_Side.mp3"
+  }
+]
